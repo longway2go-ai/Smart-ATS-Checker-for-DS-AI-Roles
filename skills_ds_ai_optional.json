@@ -1,0 +1,57 @@
+{
+  "categories": {
+    "languages": ["python", "r", "java", "c++", "sql", "html", "css", "javascript","dax"],
+    "libraries": [
+      "pandas", "numpy", "scikit-learn", "tensorflow", "keras", "xgboost","SHAP","LIME","scipy",
+      "lightgbm","catboost", "nltk", "spacy", "plotly", "matplotlib", "seaborn","ann","cnn","rnn","lstm","mlp","neural networks"
+    ],
+    "frameworks": [
+      "flask", "fastapi", "streamlit", "gradio", "huggingface", "replit"
+    ],
+    "llm_frameworks": [
+      "langchain", "transformers", "llamaindex", "openai", "langgraph",
+      "langsmith", "mcp", "smolagents", "n8n", "sentence-transformers"
+    ],
+    "tools": [
+      "jupyter", "kaggle", "vs code", "excel", "git", "github", "colab",
+      "powerbi", "label studio", "google colab","tableau"
+    ],
+    "mlops_llmops": [
+      "mlflow", "dvc", "ray", "bentoml", "kubeflow", "weights & biases",
+      "docker", "kubernetes", "vectordb", "pinecone", "faiss", "chromadb","qdrantdb"
+    ],
+    "cloud": [
+      "aws", "gcp", "azure", "sagemaker", "vertex ai", "azure ml", "google colab"
+    ],
+    "databases": ["mysql", "postgresql", "sqlite", "mongodb", "firebase"],
+    "certifications": [
+      "coursera", "udemy", "deeplearning.ai", "fast.ai", "aws certified", "google cloud certified"
+    ]
+  },
+  "aliases": {
+    "programming languages": "languages",
+    "programming & frontend": "languages",
+    "frontend": "languages",
+    "coding": "languages",
+    "data &mllibraries": "libraries",
+    "ml libraries": "libraries",
+    "data libraries": "libraries",
+    "llm&agentic frameworks": "llm_frameworks",
+    "llm frameworks": "llm_frameworks",
+    "agentic frameworks": "llm_frameworks",
+    "llm tools": "llm_frameworks",
+    "deployment & cloud": "cloud",
+    "cloud & deployment": "cloud",
+    "cloud platforms": "cloud",
+    "deployment tools": "frameworks",
+    "tools & platforms": "tools",
+    "dev tools": "tools",
+    "ide": "tools",
+    "visualization": "libraries",
+    "data visualization": "libraries",
+    "viz tools": "libraries",
+    "databases": "databases",
+    "sql databases": "databases",
+    "certifications": "certifications"
+  }
+}
