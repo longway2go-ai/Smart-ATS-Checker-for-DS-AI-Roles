@@ -6,7 +6,7 @@
       "lightgbm","catboost", "nltk", "spacy", "plotly", "matplotlib", "seaborn","ann","cnn","rnn","lstm","mlp","neural networks"
     ],
     "frameworks": [
-      "flask", "fastapi", "streamlit", "gradio", "huggingface", "replit"
+      "flask", "fastapi", "streamlit", "gradio", "huggingface", "replit","render","railway","netlify"
     ],
     "llm_frameworks": [
       "langchain", "transformers", "llamaindex", "openai", "langgraph",
@@ -18,14 +18,14 @@
     ],
     "mlops_llmops": [
       "mlflow", "dvc", "ray", "bentoml", "kubeflow", "weights & biases",
-      "docker", "kubernetes", "vectordb", "pinecone", "faiss", "chromadb","qdrantdb"
+      "docker", "kubernetes", "vectordb", "pinecone", "faiss", "chromadb","qdrantdb","redis"
     ],
     "cloud": [
       "aws", "gcp", "azure", "sagemaker", "vertex ai", "azure ml", "google colab"
     ],
-    "databases": ["mysql", "postgresql", "sqlite", "mongodb", "firebase"],
+    "databases": ["mysql", "postgresql", "sqlite", "mongodb", "firebase","nosql","redshift"],
     "certifications": [
-      "coursera", "udemy", "deeplearning.ai", "fast.ai", "aws certified", "google cloud certified"
+      "coursera", "udemy", "deeplearning.ai", "fast.ai", "aws certified", "google cloud certified","nvidia","iit","nptel"
     ]
   },
   "aliases": {
